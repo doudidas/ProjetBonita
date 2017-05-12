@@ -14,7 +14,7 @@ Course_Project
 
 - You can find the whole project on project.zip
 - you can download directly source code from :
-https://github.com/doudidas/REST_Process_Bonita.git
+https://github.com/doudidas/ProjetBonita.git
 
 
 
